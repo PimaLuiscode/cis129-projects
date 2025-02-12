@@ -1,4 +1,4 @@
-#fnunny story
+# fnunny story
 print('wake up') 
 print('take a poo')
 print('get out of bed')
